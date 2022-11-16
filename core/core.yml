@@ -1,0 +1,8 @@
+---
+:id: core
+:pack_data: https://alces-flight-packs.s3.eu-west-2.amazonaws.com/v1/core.tar.bz2
+:descriptor:
+  :description: Core
+  :locations:
+    - /mnt
+    - https://alces-flight-packs.s3.eu-west-2.amazonaws.com/v1
